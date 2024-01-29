@@ -1,6 +1,6 @@
 # SQL Task Of Stored Procedures
 ![Snapshot of Problem Statement](https://github.com/rohitwagh07/Internship_Notes/blob/main/Task.jpg)
-
+~~~ SQL
 ##Creating Database
 Create database EmployeeDB;
 
