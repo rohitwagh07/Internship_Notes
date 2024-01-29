@@ -1,2 +1,4 @@
-# Internship_Notes
-Notes taken during my internship at Aadi Technology 
+# SQL Task Of Stored Procedures
+```
+Create database EmployeeDB;
+```
