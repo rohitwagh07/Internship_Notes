@@ -1,10 +1,10 @@
 # SQL Task Of Stored Procedures
 ![Snapshot of Problem Statement](https://github.com/rohitwagh07/Internship_Notes/blob/main/Task.jpg)
 ```SQL
---- Creating Database
+##Creating Database
 Create database EmployeeDB;
 
---- Use Database
+##Use Database
 USE EmployeeDB;
 
 --- Create Table - 1
